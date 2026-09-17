@@ -1,0 +1,6 @@
+{
+  "name": "Schedule-Driven Construction Cash Curve Workbook",
+  "description": "Lightweight Schedule-Driven Construction Cash Curve Analysis SaaS web app with multi-sheet calculations, NCDOT Gantt chart, and financial S-curve analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
