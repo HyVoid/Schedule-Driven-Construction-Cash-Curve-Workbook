@@ -611,4 +611,17 @@ The commercial objective is not to predict actual bank receipts. It is to establ
 
 ---
 
-*Part 1 ends here. The `Technical Details` parent `<details>` is intentionally left structurally open across the README parts; `Formula Reference` and `Validation Rules` must remain inside this same block, and it should only close immediately before `Other Tools in This Series`.*
+## Other Tools in This Series
+
+A small collection of lightweight Excel and browser-based decision-support tools covering estimating, budgeting, operational analysis, and financial planning.
+
+* **Project Operations & Job Costing Toolkit** — connects project estimates, execution costs, and profitability review.
+* **Pricing & Break-even Decision Calculator** — evaluates pricing, margin, contribution, and break-even scenarios.
+* **Manufacturing Labor Cost & Capacity Planning Toolkit** — connects labour requirements with available production capacity.
+
+## License
+
+This project is released under the **Apache License 2.0**.
+
+See the [`LICENSE`](LICENSE) file for the full license text.
+
