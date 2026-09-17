@@ -1,4 +1,83 @@
+# Construction Cash Flow Excel Template & Schedule-Driven S-Curve Workbook
 
+> **A free, schedule-driven construction cash flow Excel template and web-based workbook. Seamlessly convert your construction schedule (WBS) and bid-item register (Schedule of Values) into an automated project S-curve, time-phased cost forecast, and planned progress tracker — without maintaining separate financial and scheduling models.**
+
+![Apache License 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-informational.svg)
+![Tool Type](https://img.shields.io/badge/Tool-Project%20Controls%20%26%20Cost%20Forecasting-success.svg)
+
+> **Try the interactive web-based dashboard below. If you require offline records, AIA billing audit trails, and repeated use across multiple jobs, download the full Excel implementation.**
+>
+> **🌐 Try the Web App** → [Launch the Free Construction Cash Flow Web Application](#)
+> 
+> **📥 Download Template** → [Download the Reusable Construction Cash Flow Excel Workbook (.xlsx)](#)
+
+## Construction Cash Flow Pain Points vs. Solutions
+
+Instead of manual tracking, this workbook uses a “pain point-to-solution” mapping to automate your project controls:
+
+| Construction Management Pain Point (What you struggle with) | Schedule-Driven Dashboard Solution (What this tool tracks) |
+| :--- | :--- |
+| **Disconnected Project Timing & Billing** | **Active Bid Items per Period:** Automatically aligns planned start and completion dates to the master project timeline (WBS). |
+| **Inaccurate Revenue & Cost Forecasting** | **Time-Phased Project Value:** Calculates exact planned value released per month/week, replacing flat contract averages. |
+| **Lack of Baseline Visibility** | **Cumulative Planned Progress:** Maps how the project is expected to physically move from 0% to 100% completion. |
+| **Cash Deficits & Working Capital Issues** | **Cash Flow Peak Identification:** Visually highlights periods of concentrated project activity and high cash/value requirements. |
+| **Unbalanced Schedule of Values (SOV)** | **Automated Bid Reconciliation:** Features an explicit audit status to ensure the time-phased model reconciles perfectly to the original bid total. |
+| **Siloed Project Management Silos** | **Unified Calculation Engine:** Connects the construction schedule and cash curve directly, ensuring both views originate from the identical dataset. |
+
+## How to Use This Construction Cost Forecasting Tool (Quick Start Guide)
+
+Follow these steps to generate your project baseline. 
+
+1. **Configure Project Timeline & Currency Parameters**
+   Set up your reporting currency, timeline granularity (Weekly/Monthly), and capital allocation method (Linear vs. Completion-period) in the configuration tab. 
+
+2. **Import Schedule of Values (SOV) & Bid-Item Register**
+   Paste your project metadata and construction estimate directly into the input area. Core required fields: Item Code, Description, Contract Amount, Planned Start Date, and Planned Completion Date.
+
+3. **Auto-Generate the Cash Flow S-Curve & Progress Baseline**
+   Let the calculation engine dynamically build the project-wide timeline. It identifies active WBS periods, distributes the planned value, and aggregates data into project-level progress metrics.
+
+4. **Review Analytics & Export for Repeated Project Use (CTA)**
+   Review Module A (Schedule & Progress Gantt) and Module B (Time-Phased Value & S-Curve). **[Download the Offline Excel Workbook Version](#)** to save this specific project baseline, maintain local audit trails, and reuse the template for your next construction bid.
+
+## Why Built This Construction Financial Modeling Tool? (The Schedule vs. Cost Gap)
+
+In construction project management, critical path schedules (CPM) and project-value forecasts are often maintained as completely separate analytical objects. 
+
+A bid schedule tells the project team **when work is expected to happen**, while a separate cash-flow spreadsheet estimates **when project capital is expected to be released**. The problem is that these two documents inevitably suffer from baseline drift.
+
+* A completion date changes in the schedule, but the cost forecasting model is not updated.
+* A change order (CO) alters a bid item, but the financial model still uses the old contract-value base.
+* A project manager presents a plausible-looking Earned Value (EVM) S-curve, but the underlying time-phased total no longer reconciles to the original Schedule of Values (SOV).
+
+This workbook treats the bid-item register and planned dates as the **single source of truth**, deriving both the schedule view and the cash/value curve from that exact source. 
+
+Instead of treating Earthwork as an independently maintained monthly financial forecast, this model dynamically asks: *"Which project periods overlap the Earthwork dates, and how should its contract value be released across those periods?"*
+
+## Overcoming Common Construction Planning Hurdles 
+
+| Project Controls Challenge | Manual Spreadsheets (Without this Tool) | Automated S-Curve Dashboard (With this Tool) |
+| :--- | :--- | :--- |
+| **Schedule vs. Financial Drift** | Dates and AIA billing periods easily fall out of sync. | Both views originate dynamically from the same bid-item baseline. |
+| **Static Contract Forecasting** | Project timing and monthly burn rates remain invisible. | Contract value is automatically distributed across granular project periods. |
+| **Complex WBS Schedules** | Requires manual timeline expansion and error-prone formula copying. | Dynamic array formulas generate and expand the timeline as the project scales. |
+| **Progress vs. Actual Value** | Progress tracking requires a separate, manual weighting exercise. | Period value is automatically normalized into planned progress contribution (%). |
+| **Change Order Management** | Modifications to bid items require updating multiple downstream tabs. | Calculation chain instantly propagates date and value changes across all views. |
+| **Hidden Calculation Errors** | A smooth visual curve can easily hide critical reconciliation errors. | Bid totals, time-phased totals, variances, and 100% completion metrics are explicitly audited. |
+
+## Use Cases: Who Needs This Construction Schedule & Cash Flow Template?
+
+This workbook is designed for construction professionals who need a lightweight, accurate way to connect a bid-item schedule with planned project-value timing, specifically targeting the following roles and workflows:
+
+* **General Contractors & Builders:** Looking for a reliable *contractor payment schedule template* to forecast subcontractor payouts versus owner progress billings.
+* **Construction Project Managers (PMs):** Needing a *construction project manager schedule Excel* to align physical site progress with the financial baseline without opening heavy enterprise software.
+* **Estimators & Pre-construction Teams:** Requiring a *bid tracker and cost forecasting tool* to model cash flow requirements and capital needs before officially breaking ground.
+* **Project Controls & Financial Reviewers:** Using this as an *Earned Value Management (EVM) dashboard* to audit if the time-phased model cleanly reconciles to the original contract values.
+
+It is particularly suited to projects where the recurring analytical question is: **“Given the planned timing of each WBS bid item, how should total contract value appear across the project timeline?”**
+
+*(Note: This tool is deliberately focused: one project, one bid-item source, one calculation engine, and two management views. It is not designed to replace Primavera P6, heavy enterprise accounting platforms, or full-scale construction ERPs, but rather to bridge the gap between them seamlessly without requiring spreadsheet engineering expertise.)*
 
 ## About
 
