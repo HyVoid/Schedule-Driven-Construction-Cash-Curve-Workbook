@@ -10,7 +10,7 @@
 >
 > **🌐 Try the Web App** → [Launch the Free Construction Cash Flow Web Application](https://hyvoid.github.io/Schedule-Driven-Construction-Cash-Curve-Workbook/)
 > 
-> **📥 Download Template** → [Download the Reusable Construction Cash Flow Excel Workbook (.xlsx)](https://theseusworkshop.com/l/cfiphb)
+> **📥 Download Template** → [Download the Reusable Construction Cash Flow Excel Workbook (.xlsx)](https://theseusworkshop.com/l/cfiphb?utm_source=github&utm_medium=GitHub%20README)
 
 ## Construction Cash Flow Pain Points vs. Solutions
 
@@ -39,7 +39,7 @@ Follow these steps to generate your project baseline.
    Let the calculation engine dynamically build the project-wide timeline. It identifies active WBS periods, distributes the planned value, and aggregates data into project-level progress metrics.
 
 4. **Review Analytics & Export for Repeated Project Use (CTA)**
-   Review Module A (Schedule & Progress Gantt) and Module B (Time-Phased Value & S-Curve). **[Download the Offline Excel Workbook Version](https://theseusworkshop.com/l/cfiphb)** to save this specific project baseline, maintain local audit trails, and reuse the template for your next construction bid.
+   Review Module A (Schedule & Progress Gantt) and Module B (Time-Phased Value & S-Curve). **[Download the Offline Excel Workbook Version](https://theseusworkshop.com/l/cfiphb?utm_source=github&utm_medium=GitHub%20README)** to save this specific project baseline, maintain local audit trails, and reuse the template for your next construction bid.
 
 ## Why Built This Construction Financial Modeling Tool? (The Schedule vs. Cost Gap)
 
