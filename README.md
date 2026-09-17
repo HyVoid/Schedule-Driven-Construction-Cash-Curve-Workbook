@@ -8,7 +8,7 @@
 
 > **Try the interactive web-based dashboard below. If you require offline records, AIA billing audit trails, and repeated use across multiple jobs, download the full Excel implementation.**
 >
-> **🌐 Try the Web App** → [Launch the Free Construction Cash Flow Web Application](#)
+> **🌐 Try the Web App** → [Launch the Free Construction Cash Flow Web Application](https://hyvoid.github.io/Schedule-Driven-Construction-Cash-Curve-Workbook/)
 > 
 > **📥 Download Template** → [Download the Reusable Construction Cash Flow Excel Workbook (.xlsx)](https://theseusworkshop.com/l/cfiphb)
 
