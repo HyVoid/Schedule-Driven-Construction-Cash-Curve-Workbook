@@ -2,6 +2,8 @@
 
 # Construction Cash Flow Excel Template & Schedule-Driven S-Curve Workbook
 
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b87d86ee-4831-4bef-b3a6-25f561344576" />
+
 > **A free, schedule-driven construction cash flow Excel template and web-based workbook. Seamlessly convert your construction schedule (WBS) and bid-item register (Schedule of Values) into an automated project S-curve, time-phased cost forecast, and planned progress tracker — without maintaining separate financial and scheduling models.**
 
 ![Apache License 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
