@@ -1,6 +1,8 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Plantilla Excel de Flujo de Caja de Construcción y Libro de Trabajo de Curva S Guiada por Cronograma
+
+<img width="1920" height="828" alt="image" src="https://github.com/user-attachments/assets/3dedcabb-bf31-4cc6-8f10-513988fa20ed" />
 
 > **Una plantilla Excel gratuita de flujo de caja de construcción guiada por cronograma y un libro de trabajo basado en web. Convierte sin esfuerzo tu cronograma de construcción (EDT) y tu registro de partidas de licitación (Programa de Valores) en una curva S de proyecto automatizada, una previsión de costos distribuida en el tiempo y un rastreador de avance planificado — sin mantener modelos financieros y de programación separados.**
 
