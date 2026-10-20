@@ -1,6 +1,8 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # قالب Excel للتدفق النقدي في الإنشاءات ودفتر عمل منحنى S المدفوع بالجدول الزمني
+
+<img width="1920" height="828" alt="image" src="https://github.com/user-attachments/assets/3dedcabb-bf31-4cc6-8f10-513988fa20ed" />
 
 > **قالب Excel مجاني للتدفق النقدي في الإنشاءات مدفوع بالجدول الزمني، ودفتر عمل قائم على المتصفح. حوِّل جدولك الزمني للإنشاءات (هيكل تجزئة العمل) وسجل بنود العطاء (جدول القيم) تلقائياً إلى منحنى S للمشروع، وتوقعات تكلفة موزعة زمنياً، ومتتبع لنسبة الإنجاز المخططة — دون الحاجة إلى صيانة نماذج مالية وزمنية منفصلة.**
 
