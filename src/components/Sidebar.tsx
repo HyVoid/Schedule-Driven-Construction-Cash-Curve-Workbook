@@ -119,10 +119,10 @@ export const Sidebar: React.FC<SidebarProps> = ({
             </div>
             <div>
               <span className="font-heading text-sm font-bold text-[var(--color-primary)] block leading-tight">
-                CashCurve
+                Theseus Workshop
               </span>
-              <span className="text-[10px] font-mono text-[var(--color-muted)] leading-none">
-                {currentSheet.code}
+              <span className="text-[10px] text-[var(--color-muted)] leading-none truncate block">
+                Construction Cash Curve &bull; {currentSheet.code}
               </span>
             </div>
           </div>
@@ -168,21 +168,24 @@ export const Sidebar: React.FC<SidebarProps> = ({
           {/* Brand Header */}
           <div className="p-4 border-b border-[var(--color-border)] flex items-center justify-between">
             <div className="flex items-center gap-3 overflow-hidden">
-              <div className="w-9 h-9 shrink-0 rounded-xl bg-[var(--color-primary)] text-white flex items-center justify-center font-bold shadow-xs">
+              <div
+                className="w-9 h-9 shrink-0 rounded-xl bg-[var(--color-primary)] text-white flex items-center justify-center font-bold shadow-xs"
+                title="Theseus Workshop: Construction Cash Curve & Schedule Engine"
+              >
                 <FileSpreadsheet className="w-5 h-5 text-white" />
               </div>
               {!isCollapsed && (
                 <div className="overflow-hidden">
                   <div className="flex items-center gap-1.5">
-                    <span className="font-heading text-lg font-bold text-[var(--color-primary)] tracking-tight leading-tight truncate">
-                      CashCurve
+                    <span className="font-heading text-base font-bold text-[var(--color-primary)] tracking-tight leading-tight truncate">
+                      Theseus Workshop
                     </span>
-                    <span className="text-[9px] tracking-label uppercase font-bold text-[var(--color-accent)] px-1.5 py-0.5 rounded bg-[rgba(34,81,255,0.08)]">
-                      SaaS
+                    <span className="text-[9px] tracking-label uppercase font-bold text-[var(--color-accent)] px-1.5 py-0.5 rounded bg-[rgba(34,81,255,0.08)] shrink-0">
+                      Pro
                     </span>
                   </div>
-                  <p className="text-[11px] text-[var(--color-muted)] font-medium leading-none mt-0.5 truncate">
-                    Schedule-Driven Cash Flow
+                  <p className="text-[11px] text-[var(--color-muted)] font-medium leading-none mt-1 truncate" title="Construction Cash Curve & Schedule Engine">
+                    Construction Cash Curve &amp; Schedule Engine
                   </p>
                 </div>
               )}

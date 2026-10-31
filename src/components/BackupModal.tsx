@@ -46,7 +46,7 @@ export const BackupModal: React.FC<BackupModalProps> = ({
     const a = document.createElement('a');
     const dateStr = new Date().toISOString().split('T')[0];
     a.href = url;
-    a.download = `CashCurve_Backup_${workbookState.metadata.contractNumber || 'Project'}_${dateStr}.json`;
+    a.download = `TheseusWorkshop_Backup_${workbookState.metadata.contractNumber || 'Project'}_${dateStr}.json`;
     a.click();
     URL.revokeObjectURL(url);
   };

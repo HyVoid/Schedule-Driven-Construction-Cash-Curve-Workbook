@@ -235,7 +235,7 @@ export default function App() {
           </div>
 
           <div className="flex items-center gap-4 text-[11px] font-mono shrink-0">
-            <span>Schedule-Driven Cash Curve v1.2</span>
+            <span>Theseus Workshop &bull; Construction Cash Curve Engine</span>
             <span>&bull;</span>
             <span>NCDOT Standard Specification</span>
           </div>

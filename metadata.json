@@ -1,6 +1,8 @@
 {
-  "name": "Schedule-Driven Construction Cash Curve Workbook",
-  "description": "Lightweight Schedule-Driven Construction Cash Curve Analysis SaaS web app with multi-sheet calculations, NCDOT Gantt chart, and financial S-curve analytics.",
+  "name": "Theseus Workshop – Construction Cash Curve & Schedule Engine",
+  "description": "Theseus Workshop: Professional schedule-driven construction cash curve workbook and Gantt engine with NCDOT standard specifications, financial S-curve analytics, and real-time cash flow modeling.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
