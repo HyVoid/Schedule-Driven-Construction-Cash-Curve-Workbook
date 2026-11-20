@@ -29,6 +29,14 @@ Instead of manual tracking, this workbook uses a “pain point-to-solution” ma
 | **Unbalanced Schedule of Values (SOV)** | **Automated Bid Reconciliation:** Features an explicit audit status to ensure the time-phased model reconciles perfectly to the original bid total. |
 | **Siloed Project Management Silos** | **Unified Calculation Engine:** Connects the construction schedule and cash curve directly, ensuring both views originate from the identical dataset. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1cosaKeNFCte7ThkHfIxc985elPG_3twP/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ## How to Use This Construction Cost Forecasting Tool (Quick Start Guide)
 
 Follow these steps to generate your project baseline. 
